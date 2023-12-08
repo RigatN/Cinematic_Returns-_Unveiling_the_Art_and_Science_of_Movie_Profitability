@@ -51,7 +51,7 @@ From the variation around the line, it is hard to say definitively that the more
 - First focus will be on creating & releasing horror films, due to typically low production costs and relatively high ROI
 - Action would be the next genre to focus on, since action tends to have the highest mean profit per month
 
-# ![bar graph showing mean profit per month for action movies](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Images/neax_step_action_movies_mean_profit_per_month.png)
+# ![bar graph showing mean profit per month for action movies](https://github.com/RigatN/Cinematic_Returns-_Unveiling_the_Art_and_Science_of_Movie_Profitability/blob/main/Images/Mean_Profit_Action.jpg)
 
 - Maximize the profitability: May or June would be the ideal months for release: potentially May and June have the highest mean profits since people are on vacation or students are no longer in school so they have more time for leisure activities. November & December could be another good time to release the movie as well, since people may be on vacation or watch more movies around the holidays
 - It should be recognized that action films can entail higher risks, stemming from the elevated budget invested in the production
