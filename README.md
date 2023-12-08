@@ -52,3 +52,6 @@ Please see the full analysis in the [analysis notebook]() or the [presentation](
 ├── Notebooks
 ├── README.md
 ├── Movie Profitability Analysis.pdf
+├── Stats_And_Analysis.ipynb
+└── Final.ipynb
+```
