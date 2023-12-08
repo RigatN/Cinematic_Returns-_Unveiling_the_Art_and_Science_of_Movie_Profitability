@@ -35,7 +35,7 @@ We then found the average ROIs across all genres in our data set. We chose a sig
 #### Mean Profit per Month
 Since horror movies tend to have the highest ROI, we looked at the mean profit per month for the first genre we will focus on.
 
-# ![graph mean profit per month for horror movies](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Images/horror_movies_mean_profit_per_month.png)
+# ![graph mean profit per month for horror movies](https://github.com/RigatN/Cinematic_Returns-_Unveiling_the_Art_and_Science_of_Movie_Profitability/blob/main/Images/Mean_Profit_Horror.jpg)
 This graph shows that typically horror films made the most when released in August or September, not October like we had originally surmised. Perhaps movie buffs are looking for some motivation before Halloween.
 
 #### Budget vs. Worldwide Gross
@@ -60,17 +60,16 @@ From the variation around the line, it is hard to say definitively that the more
 
 ## For More Information
 
-Please see the full analysis in the [cleaning](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Cleaning_and_Exploring_Data.ipynb) and [analysis](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Analysis_and_Stats.ipynb) or the [presentation]().
+Please see the full analysis in the [cleaning](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Cleaning_and_Exploring_Data.ipynb) and [analysis](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Analysis_and_Stats.ipynb) or the [presentation](https://github.com/RigatN/Cinematic_Returns-_Unveiling_the_Art_and_Science_of_Movie_Profitability/blob/main/Movie_Profitabilty_Analysis.pdf).
 
 ## Repo Structure
 
 ```
-├── data
-├── images
+├── Data
+├── Images
 ├── Notebooks
 ├── Cleaning_and_Exploring.ipynb
 ├── Analysis_and_Stats.ipynb
-├── README.md
 ├── Movie Profitability Analysis.pdf
-└── Final.ipynb
+└── README.md
 ```
