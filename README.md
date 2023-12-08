@@ -35,7 +35,7 @@ We then found the average ROIs across all genres in our data set. We chose a sig
 #### Mean Profit per Month
 Since horror movies tend to have the highest ROI, we looked at the mean profit per month for the first genre we will focus on.
 
-# ![graph mean profit per month for horror movies]([https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Images/Mean_Profit_Horror.jpg](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Images/horror_movies_mean_profit_per_month.png))
+# ![graph mean profit per month for horror movies](https://github.com/RigatN/Winning_Movie_Genres_for_New_Studios/blob/main/Images/horror_movies_mean_profit_per_month.png))
 This graph shows that typically horror films made the most when released in August or September, not October like we had originally surmised. Perhaps movie buffs are looking for some motivation before Halloween.
 
 #### Budget vs. Worldwide Gross
